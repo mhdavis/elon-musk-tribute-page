@@ -1,0 +1,111 @@
+body {
+  margin-top: 30px;
+  margin-bottom: 5px;
+  background-color: rgb(22,22,22);
+  color: rgb(200,200,200);
+  font-family: 'TeXGyreAdventorRegular';
+  font-weight: normal;
+  font-style: normal;
+}
+
+#title {
+  font-size: 80px;
+}
+
+#subtitle {
+  margin: 20px;
+}
+
+#cover-img {
+  width: 1000px;
+}
+
+.img-caption {
+  margin: 10px;
+}
+
+#quote {
+  font-size: 30px;
+}
+
+#quote-ident {
+  font-size: 25px;
+  margin-bottom: 80px;
+}
+
+#timeline {
+  margin-top: 80px;
+  font-size: 40px;
+}
+
+li {
+  font-size: 18px;
+}
+
+/*BUTTONS
+--------------------------*/
+.btn.btn-primary {
+  margin-bottom: 40px;
+  border-radius: 10px;
+  border: 0px;
+  color: rgb(22,22,22);
+  text-shadow: none;
+  background-color: rgb(200,200,200);
+}
+
+.btn.btn-primary:hover {
+  color: rgb(200,200,200);
+  background-color: black;
+}
+
+.btn-secondary {
+  background-color: black;
+  color: rgb(200,200,200);
+  margin: 0 0 30px;
+}
+
+#wiki-btn {
+  margin-top: 10px;
+}
+
+/*MARKETING
+----------------------------*/
+
+.marketing .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: normal;
+}
+.marketing .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+/*FEATURETTE
+----------------------------*/
+#launched-companies {
+  margin-top: 80px;
+  font-size: 40px;
+}
+
+.featurette-image {
+  width: 500px;
+}
+
+.featurette-divider {
+  margin: 80px 0;
+}
+
+.section-divider {
+  margin-top: 10px;
+  margin-bottom: 80px;
+}
+
+/*FOOTER
+---------------------------*/
+#top-bracket {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
